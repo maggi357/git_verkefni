@@ -1,2 +1,11 @@
 ﻿Git spurningar og svör
-konni er hér
+1. cd ~ breytir í ls s"(", ls gefur lista af directory-um, pwd sýnir núverandi directory, mkdir - býr til directory
+2. git clone - downloadar project og sögu þess, git log - gefur lista af útgáfum fyrir núverandi branch, git status - gefur lista af öllum nýjum eða breyttum skrám sem skal nota, git diff - sýnir mun á skrám sem eru ekki enn staged, git checkout - breytir yfir í tilgreint branch og uppfærir working directory-ið 
+3. git diff sýnir mun á skrám sem eru ekki enn staged, git diff --staged sýnir mun á skrám á milli staging og nýjustu útgefnu skrá
+4. Version Control er stjórnun breytinga á skjölum, tölvuforritum, stórum vefsíðum og öðrum söfnum upplýsinga 
+5. Það sem þú gerir á git er þitt eigið, þú ræður hver sér eða getur gert breytingar við verkefnum þínum. Branching og merging er einfalt og flýtir fyrir. Git notar SHA1, þessvegna er mjög létt að finna út úr málunum ef upp kemur data corruption
+6. þegar eitthvað er komið sem virkar, 2-5 sinnum á klukkutíma.
+7. Working directory ferlis er directory af hierarchical file system.
+8. branching er sniðugt að nota til þess að skipta repository-inu í parta, til þess að hafa betur skipulagt.
+
+
