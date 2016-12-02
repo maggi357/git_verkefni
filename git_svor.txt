@@ -7,5 +7,5 @@
 6. þegar eitthvað er komið sem virkar, 2-5 sinnum á klukkutíma.
 7. Working directory ferlis er directory af hierarchical file system.
 8. branching er sniðugt að nota til þess að skipta repository-inu í parta, til þess að hafa betur skipulagt.
-
+Magnús Örn Ómarsson
 
