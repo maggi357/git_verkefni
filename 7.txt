@@ -1,0 +1,1 @@
+Working directory ferlis er directory af hierarchical file system.
