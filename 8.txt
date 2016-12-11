@@ -1,0 +1,1 @@
+branching er sniðugt að nota til þess að skipta repository-inu í parta, til þess að hafa betur skipulagt.
