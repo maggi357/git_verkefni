@@ -1,0 +1,1 @@
+Version Control er stjórnun breytinga á skjölum, tölvuforritum, stórum vefsíðum og öðrum söfnum upplýsinga 
