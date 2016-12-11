@@ -1,0 +1,1 @@
+Það sem þú gerir á git er þitt eigið, þú ræður hver sér eða getur gert breytingar við verkefnum þínum. Branching og merging er einfalt og flýtir fyrir. Git notar SHA1, þessvegna er mjög létt að finna út úr málunum ef upp kemur data corruption
