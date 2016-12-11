@@ -1,0 +1,1 @@
+git clone - downloadar project og sögu þess, git log - gefur lista af útgáfum fyrir núverandi branch, git status - gefur lista af öllum nýjum eða breyttum skrám sem skal nota, git diff - sýnir mun á skrám sem eru ekki enn staged, git checkout - breytir yfir í tilgreint branch og uppfærir working directory-ið 
